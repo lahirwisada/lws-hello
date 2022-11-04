@@ -1,0 +1,21 @@
+{
+    "name": "@lahirwisada/lws-defined-hello",
+    "version": "1.0.2",
+    "description": "A simple npm package to demonstrate GitHub Package Registry",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/lahirwisada/lws-defined-hello.git"
+    },
+    "author": "lahirwisada",
+    "bugs": {
+      "url": "https://github.com/lahirwisada/lws-defined-hello/issues"
+    },
+    "homepage": "https://github.com/lahirwisada/lws-defined-hello#readme",
+    "publishConfig": {
+      "registry":"https://npm.pkg.github.com/"
+    }
+  }
