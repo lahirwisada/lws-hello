@@ -1,5 +1,5 @@
 {
-    "name": "@lahirwisada/lws-defined-hello",
+    "name": "@lahirwisada/lws-hello",
     "version": "1.0.2",
     "description": "A simple npm package to demonstrate GitHub Package Registry",
     "main": "index.js",
@@ -8,13 +8,13 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/lahirwisada/lws-defined-hello.git"
+      "url": "git+https://github.com/lahirwisada/lws-hello.git"
     },
     "author": "lahirwisada",
     "bugs": {
-      "url": "https://github.com/lahirwisada/lws-defined-hello/issues"
+      "url": "https://github.com/lahirwisada/lws-hello/issues"
     },
-    "homepage": "https://github.com/lahirwisada/lws-defined-hello#readme",
+    "homepage": "https://github.com/lahirwisada/lws-hello#readme",
     "publishConfig": {
       "registry":"https://npm.pkg.github.com/"
     }
