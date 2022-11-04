@@ -2,6 +2,6 @@ function helloWorld() {
     console.log('Hello World!');
   }
   
-exports = {
+module.exports = exports = {
     helloWorld: helloWorld
   }
